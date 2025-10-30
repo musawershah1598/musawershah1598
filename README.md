@@ -83,11 +83,6 @@ Created 25+ responsive websites, improving page load times by 20% and user engag
 - Data Structures, Algorithms, Software Engineering
 - Full-stack development with Java, C++, Python, JavaScript
 
-### 📈 GitHub Stats
-
-![Musawer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)
 
 ### 🔥 What I'm Working On
 
@@ -98,7 +93,7 @@ Created 25+ responsive websites, improving page load times by 20% and user engag
 
 ### 📫 Let's Connect!
 
-- 💼 **LinkedIn:** [linkedin.com/in/musawer-shah](https://linkedin.com/in/musawer-shah)
+- 💼 **LinkedIn:** [linkedin.com/in/musawer-shah](https://linkedin.com/in/musawershah1598)
 - 📧 **Email:** musawershah1998@gmail.com
 - 📱 **Phone:** +44 744 0145829
 - 🌍 **Location:** Bristol, United Kingdom
